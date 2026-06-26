@@ -1,1 +1,1 @@
-This site is for lesson purpose.
+This site is only made for lesson purpose.
